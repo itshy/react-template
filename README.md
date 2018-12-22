@@ -1,11 +1,5 @@
-# Install
-  ```
-  git install
-  ```
-  
-# Start
+# Install & start
   ```
   npm run start
   ```
   open ```localhost:1234```
-  
